@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="2">
-  <advance width="225"/>
-  <unicode hex="2018"/>
-  <outline>
-    <contour>
-      <point x="72" y="470" type="line"/>
-      <point x="60" y="470" type="line"/>
-      <point x="155" y="700" type="line"/>
-      <point x="165" y="700" type="line"/>
-    </contour>
-  </outline>
+	<advance width="225"/>
+	<unicode hex="2018"/>
+	<outline>
+		<contour>
+			<point x="60" y="470" type="line"/>
+			<point x="72" y="470" type="line"/>
+			<point x="165" y="700" type="line"/>
+			<point x="155" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:59:15 +0000</string>
+		</dict>
+	</lib>
 </glyph>

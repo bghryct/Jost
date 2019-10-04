@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="2">
-  <advance width="519"/>
-  <unicode hex="0179"/>
-  <outline>
-    <contour>
-      <point x="129" y="689" type="line"/>
-      <point x="131" y="700" type="line"/>
-      <point x="597.5" y="699.5" type="line"/>
-      <point x="16" y="11.5" type="line"/>
-      <point x="470" y="11" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="-8.5" y="0" type="line"/>
-      <point x="573.5" y="688.5" type="line"/>
-    </contour>
-    <contour>
-      <point x="545" y="924" type="line"/>
-      <point x="348" y="769" type="line"/>
-      <point x="345" y="774" type="line"/>
-      <point x="538" y="932" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1038"/>
+	<unicode hex="0179"/>
+	<outline>
+		<contour>
+			<point x="-17" y="0" type="line"/>
+			<point x="936" y="0" type="line"/>
+			<point x="940" y="22" type="line"/>
+			<point x="32" y="23" type="line"/>
+			<point x="1195" y="1399" type="line"/>
+			<point x="262" y="1400" type="line"/>
+			<point x="258" y="1378" type="line"/>
+			<point x="1147" y="1377" type="line"/>
+		</contour>
+		<contour>
+			<point x="696" y="1538" type="line"/>
+			<point x="1090" y="1848" type="line"/>
+			<point x="1076" y="1864" type="line"/>
+			<point x="690" y="1548" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

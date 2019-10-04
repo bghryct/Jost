@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="342"/>
-  <unicode hex="0060"/>
-  <outline>
-    <contour>
-      <point x="186" y="692" type="line"/>
-      <point x="194.5" y="699.5" type="line"/>
-      <point x="336" y="540" type="line"/>
-      <point x="331" y="535.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="684"/>
+	<unicode hex="0060"/>
+	<outline>
+		<contour>
+			<point x="662" y="1071" type="line"/>
+			<point x="672" y="1080" type="line"/>
+			<point x="389" y="1399" type="line"/>
+			<point x="372" y="1384" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-  <advance width="210"/>
-  <unicode hex="00A6"/>
-  <outline>
-    <contour>
-      <point x="100" y="695" type="line"/>
-      <point x="110" y="695" type="line"/>
-      <point x="110" y="455" type="line"/>
-      <point x="100" y="455" type="line"/>
-    </contour>
-    <contour>
-      <point x="110" y="245" type="line"/>
-      <point x="110" y="5" type="line"/>
-      <point x="100" y="5" type="line"/>
-      <point x="100" y="245" type="line"/>
-    </contour>
-  </outline>
+	<advance width="210"/>
+	<unicode hex="00A6"/>
+	<outline>
+		<contour>
+			<point x="100" y="455" type="line"/>
+			<point x="110" y="455" type="line"/>
+			<point x="110" y="695" type="line"/>
+			<point x="100" y="695" type="line"/>
+		</contour>
+		<contour>
+			<point x="100" y="5" type="line"/>
+			<point x="110" y="5" type="line"/>
+			<point x="110" y="245" type="line"/>
+			<point x="100" y="245" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:59:15 +0000</string>
+		</dict>
+	</lib>
 </glyph>

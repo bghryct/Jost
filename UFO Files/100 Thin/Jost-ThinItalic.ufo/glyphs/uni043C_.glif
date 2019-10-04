@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043C" format="2">
-  <advance width="589"/>
-  <unicode hex="043C"/>
-  <outline>
-    <contour>
-      <point x="545" y="0" type="line"/>
-      <point x="517" y="454" type="line"/>
-      <point x="526" y="495" type="line"/>
-      <point x="556.5" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="8.5" type="line"/>
-      <point x="526" y="494" type="line"/>
-      <point x="517.5" y="453.5" type="line"/>
-      <point x="259.5" y="-30" type="line"/>
-    </contour>
-    <contour>
-      <point x="260" y="-31" type="line"/>
-      <point x="174.5" y="455" type="line"/>
-      <point x="179" y="495" type="line"/>
-      <point x="266.5" y="8" type="line"/>
-    </contour>
-    <contour>
-      <point x="-23" y="0" type="line"/>
-      <point x="179.5" y="494.5" type="line"/>
-      <point x="175" y="454.5" type="line"/>
-      <point x="-9.5" y="0.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1178"/>
+	<unicode hex="043C"/>
+	<outline>
+		<contour>
+			<point x="519" y="-60" type="line"/>
+			<point x="1035" y="907" type="line"/>
+			<point x="1052" y="988" type="line"/>
+			<point x="532" y="17" type="line"/>
+		</contour>
+		<contour>
+			<point x="-46" y="0" type="line"/>
+			<point x="-19" y="1" type="line"/>
+			<point x="350" y="909" type="line"/>
+			<point x="359" y="989" type="line"/>
+		</contour>
+		<contour>
+			<point x="520" y="-62" type="line"/>
+			<point x="533" y="16" type="line"/>
+			<point x="358" y="990" type="line"/>
+			<point x="349" y="910" type="line"/>
+		</contour>
+		<contour>
+			<point x="1090" y="0" type="line"/>
+			<point x="1113" y="0" type="line"/>
+			<point x="1052" y="990" type="line"/>
+			<point x="1034" y="908" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

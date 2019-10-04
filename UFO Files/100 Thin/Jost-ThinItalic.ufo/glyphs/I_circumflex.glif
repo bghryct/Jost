@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="174"/>
-  <unicode hex="00CE"/>
-  <outline>
-    <contour>
-      <point x="175.5" y="699.5" type="line"/>
-      <point x="185.5" y="699.5" type="line"/>
-      <point x="64.5" y="0" type="line"/>
-      <point x="54.5" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="215" y="902.5" type="line"/>
-      <point x="42.5" y="769" type="line"/>
-      <point x="36.5" y="776" type="line"/>
-      <point x="216" y="914.5" type="line"/>
-      <point x="348" y="775" type="line"/>
-      <point x="340.5" y="768" type="line"/>
-    </contour>
-  </outline>
+	<advance width="348"/>
+	<unicode hex="00CE"/>
+	<outline>
+		<contour>
+			<point x="109" y="0" type="line"/>
+			<point x="129" y="0" type="line"/>
+			<point x="371" y="1399" type="line"/>
+			<point x="351" y="1399" type="line"/>
+		</contour>
+		<contour>
+			<point x="681" y="1536" type="line"/>
+			<point x="696" y="1550" type="line"/>
+			<point x="432" y="1829" type="line"/>
+			<point x="73" y="1552" type="line"/>
+			<point x="85" y="1538" type="line"/>
+			<point x="430" y="1805" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,11 +1,10 @@
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
 
-
+# Prefix: Prefix
 # GSUB 
-
-
 lookup alta {
   lookupflag 0;
     sub \a by \a.alt ;
@@ -34,35 +33,7 @@ lookup TabularNumberslookup {
     sub \seven by \uniFF17 ;
 } TabularNumberslookup;
 
-feature ss01 {
-
- script DFLT;
-     language dflt ;
-      lookup alta;
-
- script latn;
-     language dflt ;
-      lookup alta;
-} ss01;
-
-feature tnum {
-
- script DFLT;
-     language dflt ;
-      lookup TabularNumberslookup;
-
- script grek;
-     language dflt ;
-      lookup TabularNumberslookup;
-
- script latn;
-     language dflt ;
-      lookup TabularNumberslookup;
-} tnum;
-
 # GPOS 
-
-
 lookup JostHairlineLetsgetourkernon {
   lookupflag 0;
     @kc2_first_1 = [\slash \seven \V \W \Wcircumflex \uni040E \uni0423 ];
@@ -207,16 +178,6 @@ lookup JostHairlineLetsgetourkernon {
     pos @kc2_first_15 @kc2_second_13 60;
 } JostHairlineLetsgetourkernon;
 
-feature kern {
-
- script DFLT;
-     language dflt ;
-      lookup JostHairlineLetsgetourkernon;
-
- script latn;
-     language dflt ;
-      lookup JostHairlineLetsgetourkernon;
-} kern;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\H \O \I \C \E \space \F \G \T \L \D \Q \A \R \V \M \W \N \a \X \K \Y \B \Z \o \J \t \d 
@@ -277,4 +238,38 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
 
 } GDEF;
+
+feature ss01 {
+ script DFLT;
+     language dflt ;
+      lookup alta;
+
+ script latn;
+     language dflt ;
+      lookup alta;
+} ss01;
+
+feature tnum {
+ script DFLT;
+     language dflt ;
+      lookup TabularNumberslookup;
+
+ script grek;
+     language dflt ;
+      lookup TabularNumberslookup;
+
+ script latn;
+     language dflt ;
+      lookup TabularNumberslookup;
+} tnum;
+
+feature kern {
+ script DFLT;
+     language dflt ;
+      lookup JostHairlineLetsgetourkernon;
+
+ script latn;
+     language dflt ;
+      lookup JostHairlineLetsgetourkernon;
+} kern;
 

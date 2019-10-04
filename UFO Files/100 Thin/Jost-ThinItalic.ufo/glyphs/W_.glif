@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-  <advance width="921"/>
-  <unicode hex="0057"/>
-  <outline>
-    <contour>
-      <point x="660.5" y="26.5" type="line"/>
-      <point x="983" y="699.5" type="line"/>
-      <point x="994" y="699.5" type="line"/>
-      <point x="654.5" y="-15.5" type="line"/>
-      <point x="548.5" y="676.5" type="line"/>
-      <point x="227.5" y="-15.5" type="line"/>
-      <point x="110" y="700" type="line"/>
-      <point x="121" y="700" type="line"/>
-      <point x="233.5" y="26.5" type="line"/>
-      <point x="554.5" y="715.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1842"/>
+	<unicode hex="0057"/>
+	<outline>
+		<contour>
+			<point x="455" y="-31" type="line"/>
+			<point x="1097" y="1353" type="line"/>
+			<point x="1309" y="-31" type="line"/>
+			<point x="1988" y="1399" type="line"/>
+			<point x="1966" y="1399" type="line"/>
+			<point x="1321" y="53" type="line"/>
+			<point x="1109" y="1431" type="line"/>
+			<point x="467" y="53" type="line"/>
+			<point x="242" y="1400" type="line"/>
+			<point x="220" y="1400" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

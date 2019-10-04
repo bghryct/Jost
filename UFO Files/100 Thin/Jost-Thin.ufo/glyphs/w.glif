@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="2">
-  <advance width="620"/>
-  <unicode hex="0077"/>
-  <outline>
-    <contour>
-      <point x="15" y="460" type="line"/>
-      <point x="25" y="460" type="line"/>
-      <point x="162" y="18" type="line"/>
-      <point x="305" y="475" type="line"/>
-      <point x="458" y="18" type="line"/>
-      <point x="595" y="460" type="line"/>
-      <point x="605" y="460" type="line"/>
-      <point x="458" y="-15" type="line"/>
-      <point x="305" y="441" type="line"/>
-      <point x="162" y="-15" type="line"/>
-    </contour>
-  </outline>
+	<advance width="620"/>
+	<unicode hex="0077"/>
+	<outline>
+		<contour>
+			<point x="162" y="-15" type="line"/>
+			<point x="305" y="441" type="line"/>
+			<point x="458" y="-15" type="line"/>
+			<point x="605" y="460" type="line"/>
+			<point x="595" y="460" type="line"/>
+			<point x="458" y="18" type="line"/>
+			<point x="305" y="475" type="line"/>
+			<point x="162" y="18" type="line"/>
+			<point x="25" y="460" type="line"/>
+			<point x="15" y="460" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:59:15 +0000</string>
+		</dict>
+	</lib>
 </glyph>

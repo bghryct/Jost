@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcircumflex" format="2">
-  <advance width="627"/>
-  <unicode hex="0124"/>
-  <outline>
-    <contour>
-      <point x="127.5" y="377" type="line"/>
-      <point x="129" y="387" type="line"/>
-      <point x="575.5" y="387" type="line"/>
-      <point x="574" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="622.5" y="699.5" type="line"/>
-      <point x="633.5" y="699.5" type="line"/>
-      <point x="513" y="0" type="line"/>
-      <point x="502" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="180" y="699.5" type="line"/>
-      <point x="191" y="699.5" type="line"/>
-      <point x="70.5" y="0" type="line"/>
-      <point x="59.5" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="442" y="902.5" type="line"/>
-      <point x="268.5" y="769" type="line"/>
-      <point x="263.5" y="776" type="line"/>
-      <point x="443" y="914.5" type="line"/>
-      <point x="575.5" y="775" type="line"/>
-      <point x="566.5" y="768" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1254"/>
+	<unicode hex="0124"/>
+	<outline>
+		<contour>
+			<point x="1004" y="0" type="line"/>
+			<point x="1026" y="0" type="line"/>
+			<point x="1267" y="1399" type="line"/>
+			<point x="1245" y="1399" type="line"/>
+		</contour>
+		<contour>
+			<point x="119" y="0" type="line"/>
+			<point x="141" y="0" type="line"/>
+			<point x="382" y="1399" type="line"/>
+			<point x="360" y="1399" type="line"/>
+		</contour>
+		<contour>
+			<point x="255" y="754" type="line"/>
+			<point x="1148" y="754" type="line"/>
+			<point x="1151" y="774" type="line"/>
+			<point x="258" y="774" type="line"/>
+		</contour>
+		<contour>
+			<point x="1133" y="1536" type="line"/>
+			<point x="1151" y="1550" type="line"/>
+			<point x="886" y="1829" type="line"/>
+			<point x="527" y="1552" type="line"/>
+			<point x="537" y="1538" type="line"/>
+			<point x="884" y="1805" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

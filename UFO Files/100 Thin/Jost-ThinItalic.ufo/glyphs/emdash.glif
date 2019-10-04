@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash" format="2">
-  <advance width="863"/>
-  <unicode hex="2014"/>
-  <outline>
-    <contour>
-      <point x="86" y="265" type="line"/>
-      <point x="87.5" y="275" type="line"/>
-      <point x="815.5" y="275" type="line"/>
-      <point x="814" y="265" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1726"/>
+	<unicode hex="2014"/>
+	<outline>
+		<contour>
+			<point x="172" y="530" type="line"/>
+			<point x="1628" y="530" type="line"/>
+			<point x="1631" y="550" type="line"/>
+			<point x="175" y="550" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

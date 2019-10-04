@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041F" format="2">
-  <advance width="621"/>
-  <unicode hex="041F"/>
-  <outline>
-    <contour>
-      <point x="625" y="690" type="line"/>
-      <point x="178.5" y="690" type="line"/>
-      <point x="59.5" y="0" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="170" y="700" type="line"/>
-      <point x="636" y="700" type="line"/>
-      <point x="516" y="0" type="line"/>
-      <point x="506" y="0" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1242"/>
+	<unicode hex="041F"/>
+	<outline>
+		<contour>
+			<point x="100" y="0" type="line"/>
+			<point x="119" y="0" type="line"/>
+			<point x="357" y="1380" type="line"/>
+			<point x="1250" y="1380" type="line"/>
+			<point x="1012" y="0" type="line"/>
+			<point x="1032" y="0" type="line"/>
+			<point x="1272" y="1400" type="line"/>
+			<point x="340" y="1400" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="2">
-  <advance width="412"/>
-  <unicode hex="00FD"/>
-  <outline>
-    <contour>
-      <point x="455" y="459.5" type="line"/>
-      <point x="46.5" y="-219.5" type="line"/>
-      <point x="35.5" y="-219" type="line"/>
-      <point x="180.5" y="20.5" type="line"/>
-      <point x="61" y="460" type="line"/>
-      <point x="73" y="460" type="line"/>
-      <point x="190.5" y="20" type="line"/>
-      <point x="179.5" y="20.5" type="line"/>
-      <point x="444" y="459.5" type="line"/>
-    </contour>
-    <contour>
-      <point x="448" y="686" type="line"/>
-      <point x="252.5" y="531" type="line"/>
-      <point x="248" y="536" type="line"/>
-      <point x="441" y="694" type="line"/>
-    </contour>
-  </outline>
+	<advance width="824"/>
+	<unicode hex="00FD"/>
+	<outline>
+		<contour>
+			<point x="93" y="-439" type="line"/>
+			<point x="910" y="919" type="line"/>
+			<point x="888" y="919" type="line"/>
+			<point x="359" y="41" type="line"/>
+			<point x="381" y="40" type="line"/>
+			<point x="146" y="920" type="line"/>
+			<point x="122" y="920" type="line"/>
+			<point x="361" y="41" type="line"/>
+			<point x="71" y="-438" type="line"/>
+		</contour>
+		<contour>
+			<point x="505" y="1062" type="line"/>
+			<point x="896" y="1372" type="line"/>
+			<point x="882" y="1388" type="line"/>
+			<point x="496" y="1072" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

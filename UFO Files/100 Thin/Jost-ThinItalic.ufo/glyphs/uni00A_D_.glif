@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni00AD" format="2">
-  <advance width="203"/>
-  <unicode hex="00AD"/>
-  <outline>
-    <contour>
-      <point x="23" y="265" type="line"/>
-      <point x="24.5" y="275" type="line"/>
-      <point x="219" y="275" type="line"/>
-      <point x="217" y="265" type="line"/>
-    </contour>
-  </outline>
+	<advance width="406"/>
+	<unicode hex="00AD"/>
+	<outline>
+		<contour>
+			<point x="46" y="530" type="line"/>
+			<point x="434" y="530" type="line"/>
+			<point x="438" y="550" type="line"/>
+			<point x="49" y="550" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

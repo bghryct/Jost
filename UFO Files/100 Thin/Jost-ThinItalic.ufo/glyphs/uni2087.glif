@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2087" format="2">
-  <advance width="341"/>
-  <unicode hex="2087"/>
-  <outline>
-    <contour>
-      <point x="77.5" y="414" type="line"/>
-      <point x="78.5" y="420" type="line"/>
-      <point x="353" y="419.5" type="line"/>
-      <point x="64.5" y="0" type="line"/>
-      <point x="57.5" y="0" type="line"/>
-      <point x="341" y="413.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="682"/>
+	<unicode hex="2087"/>
+	<outline>
+		<contour>
+			<point x="115" y="0" type="line"/>
+			<point x="129" y="0" type="line"/>
+			<point x="706" y="839" type="line"/>
+			<point x="157" y="840" type="line"/>
+			<point x="155" y="828" type="line"/>
+			<point x="682" y="827" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

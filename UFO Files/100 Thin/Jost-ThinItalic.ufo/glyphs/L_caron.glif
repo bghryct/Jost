@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="417"/>
-  <unicode hex="013D"/>
-  <outline>
-    <contour>
-      <point x="180" y="699.5" type="line"/>
-      <point x="190" y="699.5" type="line"/>
-      <point x="71.5" y="10" type="line"/>
-      <point x="372.5" y="10" type="line"/>
-      <point x="371" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="429" y="707" type="line"/>
-      <point x="439.5" y="702" type="line"/>
-      <point x="288.5" y="454" type="line"/>
-      <point x="282.5" y="456" type="line"/>
-    </contour>
-  </outline>
+	<advance width="834"/>
+	<unicode hex="013D"/>
+	<outline>
+		<contour>
+			<point x="120" y="0" type="line"/>
+			<point x="742" y="0" type="line"/>
+			<point x="745" y="20" type="line"/>
+			<point x="143" y="20" type="line"/>
+			<point x="380" y="1399" type="line"/>
+			<point x="360" y="1399" type="line"/>
+		</contour>
+		<contour>
+			<point x="577" y="908" type="line"/>
+			<point x="879" y="1404" type="line"/>
+			<point x="858" y="1414" type="line"/>
+			<point x="565" y="912" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

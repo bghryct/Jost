@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="2">
-  <advance width="705"/>
-  <unicode hex="2044"/>
-  <outline>
-    <contour>
-      <point x="633" y="700" type="line"/>
-      <point x="645" y="700" type="line"/>
-      <point x="72" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-    </contour>
-  </outline>
+	<advance width="705"/>
+	<unicode hex="2044"/>
+	<outline>
+		<contour>
+			<point x="60" y="0" type="line"/>
+			<point x="72" y="0" type="line"/>
+			<point x="645" y="700" type="line"/>
+			<point x="633" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:59:16 +0000</string>
+		</dict>
+	</lib>
 </glyph>

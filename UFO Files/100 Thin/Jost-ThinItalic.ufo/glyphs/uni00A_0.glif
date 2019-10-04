@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni00A0" format="2">
-  <advance width="300"/>
-  <unicode hex="00A0"/>
-  <outline>
-  </outline>
+	<advance width="600"/>
+	<unicode hex="00A0"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0410" format="2">
-  <advance width="640"/>
-  <unicode hex="0410"/>
-  <outline>
-    <contour>
-      <point x="144.5" y="272" type="line"/>
-      <point x="146" y="282" type="line"/>
-      <point x="479" y="282" type="line"/>
-      <point x="477.5" y="272" type="line"/>
-    </contour>
-    <contour>
-      <point x="382.5" y="688" type="line"/>
-      <point x="152.5" y="277" type="line"/>
-      <point x="151" y="273" type="line"/>
-      <point x="-1.5" y="0" type="line"/>
-      <point x="-13.5" y="0" type="line"/>
-      <point x="386.5" y="715" type="line"/>
-      <point x="540.5" y="0" type="line"/>
-      <point x="528.5" y="0" type="line"/>
-      <point x="472" y="273" type="line"/>
-      <point x="471.5" y="276" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1280"/>
+	<unicode hex="0410"/>
+	<outline>
+		<contour>
+			<point x="-27" y="0" type="line"/>
+			<point x="-3" y="0" type="line"/>
+			<point x="302" y="546" type="line"/>
+			<point x="305" y="554" type="line"/>
+			<point x="765" y="1376" type="line"/>
+			<point x="943" y="552" type="line"/>
+			<point x="944" y="546" type="line"/>
+			<point x="1057" y="0" type="line"/>
+			<point x="1081" y="0" type="line"/>
+			<point x="773" y="1430" type="line"/>
+		</contour>
+		<contour>
+			<point x="289" y="544" type="line"/>
+			<point x="955" y="544" type="line"/>
+			<point x="958" y="564" type="line"/>
+			<point x="292" y="564" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

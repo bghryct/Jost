@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2150" format="2">
-  <advance width="817"/>
-  <unicode hex="2150"/>
-  <outline>
-    <contour>
-      <point x="695" y="699" type="line"/>
-      <point x="707" y="699" type="line"/>
-      <point x="31" y="0" type="line"/>
-      <point x="19" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="107" y="666.5" type="line"/>
-      <point x="108" y="673.5" type="line"/>
-      <point x="218" y="697" type="line"/>
-      <point x="144" y="274.5" type="line"/>
-      <point x="138" y="274.5" type="line"/>
-      <point x="209.5" y="688.5" type="line"/>
-    </contour>
-    <contour>
-      <point x="551" y="414" type="line"/>
-      <point x="552" y="420" type="line"/>
-      <point x="826.5" y="419.5" type="line"/>
-      <point x="538.5" y="0" type="line"/>
-      <point x="531" y="0" type="line"/>
-      <point x="815" y="413.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1634"/>
+	<unicode hex="2150"/>
+	<outline>
+		<contour>
+			<point x="38" y="0" type="line"/>
+			<point x="62" y="0" type="line"/>
+			<point x="1414" y="1398" type="line"/>
+			<point x="1390" y="1398" type="line"/>
+		</contour>
+		<contour>
+			<point x="276" y="549" type="line"/>
+			<point x="288" y="549" type="line"/>
+			<point x="436" y="1394" type="line"/>
+			<point x="216" y="1347" type="line"/>
+			<point x="214" y="1333" type="line"/>
+			<point x="419" y="1377" type="line"/>
+		</contour>
+		<contour>
+			<point x="1062" y="0" type="line"/>
+			<point x="1077" y="0" type="line"/>
+			<point x="1653" y="839" type="line"/>
+			<point x="1104" y="840" type="line"/>
+			<point x="1102" y="828" type="line"/>
+			<point x="1630" y="827" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

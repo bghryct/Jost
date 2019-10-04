@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex" format="2">
-  <advance width="601"/>
-  <unicode hex="0175"/>
-  <outline>
-    <contour>
-      <point x="66.5" y="460" type="line"/>
-      <point x="76" y="460" type="line"/>
-      <point x="132.5" y="19" type="line"/>
-      <point x="350.5" y="475.5" type="line"/>
-      <point x="419.5" y="18.5" type="line"/>
-      <point x="629.5" y="459.5" type="line"/>
-      <point x="639.5" y="459.5" type="line"/>
-      <point x="414" y="-15.5" type="line"/>
-      <point x="345" y="440.5" type="line"/>
-      <point x="126.5" y="-15.5" type="line"/>
-    </contour>
-    <contour>
-      <point x="385.328" y="670" type="line"/>
-      <point x="212.828" y="536.5" type="line"/>
-      <point x="206.828" y="543.5" type="line"/>
-      <point x="386.328" y="682" type="line"/>
-      <point x="518.328" y="542.5" type="line"/>
-      <point x="510.828" y="535.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1202"/>
+	<unicode hex="0175"/>
+	<outline>
+		<contour>
+			<point x="253" y="-31" type="line"/>
+			<point x="690" y="881" type="line"/>
+			<point x="828" y="-31" type="line"/>
+			<point x="1279" y="919" type="line"/>
+			<point x="1259" y="919" type="line"/>
+			<point x="839" y="37" type="line"/>
+			<point x="701" y="951" type="line"/>
+			<point x="265" y="38" type="line"/>
+			<point x="152" y="920" type="line"/>
+			<point x="133" y="920" type="line"/>
+		</contour>
+		<contour>
+			<point x="1022" y="1071" type="line"/>
+			<point x="1037" y="1085" type="line"/>
+			<point x="773" y="1364" type="line"/>
+			<point x="414" y="1087" type="line"/>
+			<point x="426" y="1073" type="line"/>
+			<point x="771" y="1340" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

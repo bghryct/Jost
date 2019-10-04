@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="2">
-  <advance width="470"/>
-  <unicode hex="00BB"/>
-  <outline>
-    <contour>
-      <point x="283.5" y="255" type="line"/>
-      <point x="123" y="483" type="line"/>
-      <point x="130.5" y="490" type="line"/>
-      <point x="293.5" y="254" type="line"/>
-      <point x="50.5" y="21" type="line"/>
-      <point x="45" y="28" type="line"/>
-    </contour>
-    <contour>
-      <point x="439" y="255" type="line"/>
-      <point x="278.5" y="483" type="line"/>
-      <point x="286" y="490" type="line"/>
-      <point x="448.5" y="254" type="line"/>
-      <point x="206" y="21" type="line"/>
-      <point x="200" y="28" type="line"/>
-    </contour>
-  </outline>
+	<advance width="940"/>
+	<unicode hex="00BB"/>
+	<outline>
+		<contour>
+			<point x="412" y="42" type="line"/>
+			<point x="897" y="508" type="line"/>
+			<point x="572" y="980" type="line"/>
+			<point x="557" y="966" type="line"/>
+			<point x="878" y="510" type="line"/>
+			<point x="400" y="56" type="line"/>
+		</contour>
+		<contour>
+			<point x="101" y="42" type="line"/>
+			<point x="587" y="508" type="line"/>
+			<point x="261" y="980" type="line"/>
+			<point x="246" y="966" type="line"/>
+			<point x="567" y="510" type="line"/>
+			<point x="90" y="56" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

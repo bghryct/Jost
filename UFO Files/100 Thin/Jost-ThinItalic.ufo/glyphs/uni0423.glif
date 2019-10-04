@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0423" format="2">
-  <advance width="465"/>
-  <unicode hex="0423"/>
-  <outline>
-    <contour>
-      <point x="559" y="699.5" type="line"/>
-      <point x="119" y="0" type="line"/>
-      <point x="109" y="0" type="line"/>
-      <point x="250.5" y="224.5" type="line"/>
-      <point x="92.5" y="700" type="line"/>
-      <point x="102" y="700" type="line"/>
-      <point x="257.5" y="230" type="line"/>
-      <point x="253" y="230.5" type="line"/>
-      <point x="549" y="699.5" type="line"/>
-    </contour>
-  </outline>
+	<advance width="930"/>
+	<unicode hex="0423"/>
+	<outline>
+		<contour>
+			<point x="218" y="0" type="line"/>
+			<point x="238" y="0" type="line"/>
+			<point x="1118" y="1399" type="line"/>
+			<point x="1098" y="1399" type="line"/>
+			<point x="506" y="461" type="line"/>
+			<point x="515" y="460" type="line"/>
+			<point x="204" y="1400" type="line"/>
+			<point x="185" y="1400" type="line"/>
+			<point x="501" y="449" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

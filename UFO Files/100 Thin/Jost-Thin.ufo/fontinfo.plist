@@ -11,11 +11,7 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Jost* Thin</string>
-	<key>guidelines</key>
-	<array/>
-	<key>italicAngle</key>
-	<real>0.0</real>
+	<string>Jost*</string>
 	<key>note</key>
 	<string>2016-6-10: Created with FontForge (http://fontforge.org)</string>
 	<key>openTypeHeadCreated</key>
@@ -117,12 +113,10 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNameManufacturer</key>
-	<string></string>
-	<key>openTypeNameManufacturerURL</key>
-	<string></string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Jost*</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Thin</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 3.400</string>
 	<key>openTypeOS2FamilyClass</key>
@@ -150,26 +144,16 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<integer>374</integer>
 	<key>postscriptBlueValues</key>
 	<array/>
-	<key>postscriptFamilyBlues</key>
-	<array/>
-	<key>postscriptFamilyOtherBlues</key>
-	<array/>
 	<key>postscriptFontName</key>
 	<string>Jost-Hairline</string>
 	<key>postscriptFullName</key>
 	<string>Jost* 100 Hairline</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
-	<key>postscriptStemSnapH</key>
-	<array/>
-	<key>postscriptStemSnapV</key>
-	<array/>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>Hairline</string>
 	<key>styleMapFamilyName</key>
 	<string>Jost* Thin</string>
 	<key>styleMapStyleName</key>

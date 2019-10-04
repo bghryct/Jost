@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
-  <advance width="422"/>
-  <unicode hex="005C"/>
-  <outline>
-    <contour>
-      <point x="107" y="700" type="line"/>
-      <point x="119.5" y="700" type="line"/>
-      <point x="380.5" y="0" type="line"/>
-      <point x="368" y="0" type="line"/>
-    </contour>
-  </outline>
+	<advance width="844"/>
+	<unicode hex="005C"/>
+	<outline>
+		<contour>
+			<point x="736" y="0" type="line"/>
+			<point x="761" y="0" type="line"/>
+			<point x="239" y="1400" type="line"/>
+			<point x="214" y="1400" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-10-01 15:57:13 +0000</string>
+		</dict>
+	</lib>
 </glyph>

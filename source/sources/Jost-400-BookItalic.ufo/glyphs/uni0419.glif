@@ -4,38 +4,44 @@
   <unicode hex="0419"/>
   <outline>
     <contour>
-      <point x="802" y="599" type="line"/>
       <point x="-1" y="-47" type="line"/>
-      <point x="58" y="101" type="line"/>
+      <point x="802" y="599" type="line"/>
       <point x="860" y="748" type="line"/>
+      <point x="58" y="101" type="line"/>
     </contour>
     <contour>
-      <point x="344" y="700" type="line"/>
-      <point x="127" y="68" type="line"/>
       <point x="-1" y="-47" type="line"/>
+      <point x="127" y="68" type="line"/>
+      <point x="344" y="700" type="line"/>
       <point x="258" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="860" y="748" type="line"/>
-      <point x="601" y="0" type="line"/>
       <point x="516" y="0" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="860" y="748" type="line"/>
       <point x="732" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="456.808" y="907" type="curve"/>
-      <point x="523.808" y="907" type="line"/>
-      <point x="521.808" y="867"/>
-      <point x="531.808" y="834"/>
-      <point x="578.808" y="833" type="curve" smooth="yes"/>
-      <point x="629.808" y="832"/>
-      <point x="661.808" y="867"/>
-      <point x="686.808" y="906" type="curve"/>
-      <point x="756.808" y="905" type="line"/>
-      <point x="721.808" y="829"/>
-      <point x="657.808" y="768"/>
       <point x="568.808" y="768" type="curve" smooth="yes"/>
-      <point x="482.808" y="768"/>
+      <point x="657.808" y="768"/>
+      <point x="721.808" y="829"/>
+      <point x="756.808" y="905" type="curve"/>
+      <point x="686.808" y="906" type="line"/>
+      <point x="661.808" y="867"/>
+      <point x="629.808" y="832"/>
+      <point x="578.808" y="833" type="curve" smooth="yes"/>
+      <point x="531.808" y="834"/>
+      <point x="521.808" y="867"/>
+      <point x="523.808" y="907" type="curve"/>
+      <point x="456.808" y="907" type="line"/>
       <point x="447.808" y="828"/>
+      <point x="482.808" y="768"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-03 14:51:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>
