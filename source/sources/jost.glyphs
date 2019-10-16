@@ -85,6 +85,10 @@ name = kern;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{920, 20}",
+"{0, -20}"
+);
 ascender = 1600;
 capHeight = 1400;
 custom = Thin;
@@ -148,6 +152,10 @@ widthValue = 0;
 xHeight = 920;
 },
 {
+alignmentZones = (
+"{920, 20}",
+"{0, -20}"
+);
 ascender = 1600;
 capHeight = 1400;
 custom = "Thin Italic";
