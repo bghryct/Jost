@@ -14,7 +14,7 @@ Jost* is designed and maintained by Owen Earl (https://ewonrael.github.io/),
 who is the creator of the font foundry indestructible type* (http://indestructible-type.github.io).
 
 Jost* is a font for the digital age. It's based off of the work of Paul Renner, the designer of Futura. 
-Jost* is an origonal font that aims to keep the attitude of Futura rather than the exact design. Futura 
+Jost* is an original font that aims to keep the attitude of Futura rather than the exact design. Futura 
 was designed to be functional in its day and in that spirit, Jost* aims to be as functional as possible 
 in the digital era. For that reason it deviates from the exact designs of Paul Jost, favoring, for example, 
 a larger x-height. It also includes features, many of which would not be possible in the era of Paul Jost.
